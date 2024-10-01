@@ -1,0 +1,7 @@
+Client:
+npm run dev
+
+Server:
+python manage.py runserver
+
+
